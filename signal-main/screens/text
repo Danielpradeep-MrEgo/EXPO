@@ -1,0 +1,19 @@
+Android woring:
+
+keyboard avoiding view = no
+
+use LayerEffect = yes
+
+header Back Title = no
+
+
+
+
+iphone working:
+
+use LayerEffect = yes
+
+keyboard avoiding view = yes
+
+header Back Title = yes
+
